@@ -1,9 +1,9 @@
 # graphs
 
-the folder - simple-graph represents unweighted undirected  graph - java
+the folder - simple graph represents unweighted and undirected graph written with java language
 
-the folder - weighted undirected graph - java
+the folder - weighted undirected graph written with java language
 
-the folder - Directed weighted graph - python
+the folder - directed weighted graph written with python language
 
 given as an assignment at the kurse object-oriented-programming
