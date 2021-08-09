@@ -2,7 +2,7 @@
 
 ***
 
-![](https://github.com/LIADN7/Directed-and-weighted-graph-on-Py/blob/master/imgs/depositphotos_200527056-stock-illustration-graph-network-logo-icon-design.jpg)
+![](https://github.com/avielc11/Graphs/blob/main/directed-weighted-graph/imgs/depositphotos_200527056-stock-illustration-graph-network-logo-icon-design.jpg)
 
 **the class Nodes** --> presents the information of a node_data type
 and present all the ribs that go to and go from the mode on the graph.
@@ -52,27 +52,26 @@ The results can be seen in the graph below (the numbers are run times in seconds
 
 ***
 
-![](https://github.com/LIADN7/Directed-and-weighted-graph-on-Py/blob/master/imgs/PC-chack.png)
+![](https://github.com/avielc11/Graphs/blob/main/directed-weighted-graph/imgs/PC-chack.png)
 
 
 **Graph construction**
 
-![](https://github.com/LIADN7/Directed-and-weighted-graph-on-Py/blob/master/imgs/do%20graph.png)
-
+![](https://github.com/avielc11/Graphs/blob/main/directed-weighted-graph/imgs/do%20graph.png)
 
 **shortest path**
 
-![](https://github.com/LIADN7/Directed-and-weighted-graph-on-Py/blob/master/imgs/shortest%20path.png)
+![](https://github.com/avielc11/Graphs/blob/main/directed-weighted-graph/imgs/shortest%20path.png)
 
 
 **connected component**
 
-![](https://github.com/LIADN7/Directed-and-weighted-graph-on-Py/blob/master/imgs/connected_component(node-0).png)
+![](https://github.com/avielc11/Graphs/blob/main/directed-weighted-graph/imgs/connected_component(node-0).png)
 
 
 **connected components**
 
-![](https://github.com/LIADN7/Directed-and-weighted-graph-on-Py/blob/master/imgs/connected_components.png)
+![](https://github.com/avielc11/Graphs/blob/main/directed-weighted-graph/imgs/connected_components.png)
 
 
 
@@ -98,24 +97,24 @@ There are tests for all the classes, including tests given by the lecturers.
 
 **chack 0 attempts 1** 
 
-![](https://github.com/LIADN7/Directed-and-weighted-graph-on-Py/blob/master/imgs/check0-picture1.png)
+![](https://github.com/avielc11/Graphs/blob/main/directed-weighted-graph/imgs/check0-picture1.png)
 
 **chack 0 attempts 2** 
 
-![](https://github.com/LIADN7/Directed-and-weighted-graph-on-Py/blob/master/imgs/check0-picture2.png)
+![](https://github.com/avielc11/Graphs/blob/main/directed-weighted-graph/imgs/check0-picture2.png)
 
 
 **chack 1 attempts 1** 
 
-![](https://github.com/LIADN7/Directed-and-weighted-graph-on-Py/blob/master/imgs/check1-picture1.png)
+![](https://github.com/avielc11/Graphs/blob/main/directed-weighted-graph/imgs/check1-picture1.png)
 
 **chack 1 attempts 2**
  
-![](https://github.com/LIADN7/Directed-and-weighted-graph-on-Py/blob/master/imgs/check1-picture2.png)
+![](https://github.com/avielc11/Graphs/blob/main/directed-weighted-graph/imgs/check1-picture2.png)
 
 **chack 2**
  
-![](https://github.com/LIADN7/Directed-and-weighted-graph-on-Py/blob/master/imgs/check2.png)
+![](https://github.com/avielc11/Graphs/blob/main/directed-weighted-graph/imgs/check2.png)
 
 
 
